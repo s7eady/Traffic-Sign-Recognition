@@ -7,7 +7,7 @@ This project is a simple implemetation of a Convolutional Neural Network (CNN) t
 Attached in this repository are as follows:
 
 - TrafficSignRecognition.ipynb (A notebook file with source code)
-- tsr.wth (The weights for 100% accuracy in testing)
+- tsr_wts.pth (The weights for 100% accuracy in testing)
 - Traffic Sign Dataset (download link for the dataset I used)
   
 ## CNN Framework:
